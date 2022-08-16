@@ -40,11 +40,11 @@ export = defineConfig(ctx => ({
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
   locales: {
-    '/': {
+    /*'/': {
       lang: 'en-US',
       title: 'VuePress',
       description: 'Vue-powered Static Site Generator'
-    },
+    },*/
     '/zh/': {
       lang: 'zh-CN',
       title: 'VuePress',
